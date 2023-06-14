@@ -7,7 +7,7 @@ Before start the execution of the assignments, we need to prepare our terminal, 
 
 Also will be necessary to have an user created on AWS with the access key that should be configured on terminal; and adding administrative permissions to make changes on platform through the AWS Cli. 
 
-## Security: Core Security Concepts
+## 1 - Core Security Concepts
 ### Problem
 Help improve security at the city’s stock exchange by ensuring that support engineers can perform only authorized actions.
 
